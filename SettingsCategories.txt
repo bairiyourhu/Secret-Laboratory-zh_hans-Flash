@@ -1,0 +1,5 @@
+<b><color=#04E0FF>〔</color> <color=#0DDDFF>📺</color> <color=#1AD8FF>〕</color><color=#29D1FF>视</color><color=#38CAFF>频</color></b>
+<b><color=#4BC4FF>〔</color> <color=#5CBEFF>🔊</color> <color=#6BB7FF>〕</color><color=#7BB0FF>声</color><color=#8AAAFF>音</color></b>
+<b><color=#98A5FF>〔</color> <color=#A29EFF>🎮</color> <color=#B998FF>〕</color><color=#C195FD>控</color><color=#CA92FD>制</color></b>
+<b><color=#D494FF>〔</color> <color=#D98DFB>🎬</color> <color=#D98DFB>〕</color><color=#DF8BF9>界</color><color=#E588F8>面</color></b>
+<b><color=#EC87F7>〔</color> <color=#F185F5>📺</color> <color=#F584F4>〕</color><color=#F981F3>其</color><color=#FF80F5>它</color></b>

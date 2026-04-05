@@ -1,0 +1,3 @@
+<size=95%><color=#00E2FFFF>〔 已被 <color=#AF99FFFF><b>[player]</b></color> 扣押 〕</color></size>
+<color=#FF80F2FF><b>服务器管理员</b></color>
+<color=#00E2FFFF>听从其指挥或向队友寻求帮助</color>

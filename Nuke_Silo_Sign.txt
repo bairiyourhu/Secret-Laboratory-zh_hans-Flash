@@ -1,0 +1,20 @@
+#INFO FOR TRANSLATORS: In this file you can use as many lines as you want, all of them will be displayed on the display above the door.
+<color=#F05F5FFF><size=100%>A</size></color>
+<color=#F05F5FFF><size=100%>AL</size></color>
+<color=#F05F5FFF><size=100%>ALP</size></color>
+<color=#F05F5FFF><size=100%>ALPH</size></color>
+<color=#F05F5FFF><size=100%>ALPHA</size></color>
+
+<color=#F05F5FFF><size=100%>ALPHA</size></color>
+
+<color=#F05F5FFF><size=100%>核</size></color>
+<color=#F05F5FFF><size=100%>核弹</size></color>
+<color=#F05F5FFF><size=100%>核弹头</size></color>
+
+<color=#F05F5FFF><size=100%>核弹头</size></color>
+
+<color=#F05F5FFF><size=100%>发</size></color>
+<color=#F05F5FFF><size=100%>发射</size></color>
+<color=#F05F5FFF><size=100%>发射井</size></color>
+
+<color=#F05F5FFF><size=100%>发射井</size></color>

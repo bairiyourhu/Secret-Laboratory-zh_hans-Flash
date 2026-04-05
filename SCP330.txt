@@ -1,0 +1,39 @@
+〔 🍬 SCP-330 🍬 〕
+<b><color=#8D20D0>〔</color> <color=#E52F2F>彩</color><color=#E6CE2F>虹</color><color=#50BF39>糖</color><color=#406DFF>果</color> <color=#E567D9>〕</color></b>
+<size=90%><color=#FFA500>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><b><color=#8D20D0>一<color=#E52F2F>块<color=#E6CE2F>硬<color=#50BF39>邦<color=#406DFF>邦<color=#E567D9>的<color=#406DFF>糖<color=#50BF39>，<color=#E6CE2F>充<color=#E52F2F>满<color=#8D20D0>了<color=#E52F2F>各<color=#E6CE2F>种<color=#50BF39>味<color=#406DFF>道</b></color>\n<size=45%> - <color=#00FF00>立即恢复15HP与20AHP等奖励</color> <color=#FF3333>一段时间后失去AHP</color> - </size>
+ - 你从糖果碗里摸出这颗糖 软绵绵的如同棉花糖一样 - 
+<color=#D49E00>〔 <b>黄色糖果</b> 〕</color>
+<size=90%><color=#D49E00>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><b><color=#D49E00>浓郁的柠檬香气扑鼻而来使你有点犹豫</b></color>\n<size=45%> - <color=#00FF00>恢复体力并获得移动加速</color> - </size>
+ - 你从糖果碗里摸出这颗糖 柠檬味的香气渗透进你的神经系统 - 
+<color=#8D20D0>〔 <b>紫色糖果</b> 〕</color>
+<size=90%><color=#8D20D0>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><b><color=#8D20D0>饱满多汁的葡萄气味 你的口水开始止不住往下流</b></color>\n<size=45%> - <color=#00FF00>获得伤害减免和缓慢恢复15HP</color> - </size>
+ - 你从糖果碗里摸出这颗糖 硬邦邦的糖果如同来自东方的巨峰葡萄 - 
+<color=#CD2A2A>〔 <b>红色糖果</b> 〕</color>
+<size=90%><color=#CD2A2A>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><b><color=#CD2A2A>一股浓烈的樱桃气味充满了房间 这有点...<i>太</i>劲了</b></color>\n<size=45%> - <color=#00FF00>迅速恢复45HP</color> - </size>
+ - 你从糖果碗里摸出这颗糖 红色如同他的外表般炽热而轻薄 - 
+<color=#3A8A29>〔 <b>绿色糖果</b> 〕</color>
+<size=90%><color=#3A8A29>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><b><color=#3A8A29>一股难闻的草药气味从糖果中散发出来</b></color>\n<size=45%> - <color=#00FF00>免疫大多数效果并缓慢恢复120HP</color> - </size>
+ - 你从糖果碗里摸出这颗糖 显眼的绿色与草药味冲击着你的视嗅觉 - 
+<color=#6CBED9>〔 <b>蓝色糖果</b> 〕</color>
+<size=90%><color=#6CBEF9>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><b><color=#6CBED9>闻起来香软又甜美 就像是棉花糖</b></color>\n<size=45%> - <color=#00FF00>获得30点不会衰减的AHP</color> - </size>
+ - 你从糖果碗里摸出这颗糖 香香软软夹杂着蓝莓味钻入嗅觉 - 
+<color=#E567D9>〔 <b>粉色糖果</b> 〕</color>	
+<size=90%><color=#E457D9>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><b><color=#E457D9>草莓的香气就和它外表一样柔和</b></color>\n<size=45%> - <color=#FFD700>立即原地爆炸</color> - </size>
+〔 - 数 据 删 除 - 〕
+<color=#FFA500>🍬 <b>橘色糖果</b> 🍬</color>
+不给糖就捣蛋？
+​
+🍬 白色糖果 🍬
+不给糖就捣蛋？
+​
+<color=#808080>🍬 <b>灰色糖果</b> 🍬</color>
+不给糖就捣蛋？
+​
+〔 <b>黑色糖果</b>〕</color>
+<size=90%>▣━━━━━━━▣━━━━━━━▣</color><size=30%>\n</size><size=30%>\n</size><b>你从容器中摸到了这块不属于这个容器的糖果 你明白你无数次尝过它 但你始终无法想起它的滋味.....</b></color>\n<size=45%> - <color=#FFD700>获得随机效果</color> - </size>
+ - 你从糖果碗里摸出这颗糖 [数据删除] - 
+<color=#A52A2A>🍬 <b>棕色糖果</b> 🍬</color>
+不给糖就捣蛋？
+​
+🍬 恶魔糖果 🍬
+不给糖就捣蛋？

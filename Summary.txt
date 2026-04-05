@@ -1,0 +1,19 @@
+<b><color=#FFFFFFFF>胜负已定</color></b>
+<color=#FF0000FF>『设施沦陷』</color>
+<color=#0096FFFF>『光复旧物』</color>
+<color=#008F1CFF>『归其他方』</color>
+<color=#FFFFFFFF>『难分伯仲』</color>
+<b><color=#0096FFFF>S<lowercase>ite<lowercase>-02</color>彻底沦陷，<color=#FF0000FF>异常项目</color>摧毁了设施。基金会损失惨重。</b>
+<b>基金会重夺<color=#0096FFFF>S<lowercase>ite</lowercase>-02</color>控制权，等待基金会的进一步指令</b>
+<b>基金会势力不堪一击。<color=#008F1CFF>C.I.</color>得到了新的设施控制权，<color=#008F1CFF>特工</color>们准备待续</b>
+<b><color=#0096FFFF>S<lowercase>ite</lowercase>-02</color>基本得到控制，但也为此付出了一定代价。最终的赢家难分伯仲。</b>
+<b>[summary_d_escaped] 名<color=#FF8000FF>D级人员</color>撤离设施</b>
+<b>[summary_s_escaped] 名<color=#FFFF7CFF>科学家</color>撤离设施</b>
+<b><color=#FF4545FF>A<lowercase>lpha</lowercase>核弹头</color>共结束 [summary_warhead_kills] 条生命。</b>
+<b><color=#FF4545FF>A<lowercase>lpha</lowercase>核弹头</color>未被启用且完整存放。</b>
+<b>此次行动耗时 [summary_round_minutes]</color> 分 [summary_round_seconds]</color> 秒。</b>
+<b>总计有 [summary_scp_terminated] 个<color=#FF0000FF>SCP</color>被收容</b>
+<b>新的行动将在 [summary_next_round_countdown]</color> 秒后开始。</b>
+<b><color=#FF0000FF>SCP</color>共计杀死了 [summary_scpfrags] 名人类。</b>
+<color=#FF59CAFF>『全军覆没』</color>
+<b>其他势力无一幸免遇难，<color=#FF59CAFF>火烈鸟</color>们取得了完全的胜利。</b>
